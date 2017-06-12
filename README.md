@@ -59,3 +59,5 @@ Stepper2.step(100,FORWARD,SINGLE)
 ---
 [Дошка](https://trello.com/b/WcNKVhkJ/-)
 ---
+[Фінальне відео](https://www.youtube.com/watch?v=xnu-Pjx75-s&feature=youtu.be)
+---
